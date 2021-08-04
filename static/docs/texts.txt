@@ -1,0 +1,30 @@
+Cómo trabajamos
+
+El primer paso de cualquier problema es entenderlo completamente, por lo que nos enfocamos en entender todo el contexto de operaciones de nuestros clientes antes de ofrecer alguna solución.
+[imagen de análisis]
+
+Cuando nuestro análisis está hecho te proponemos una solución tecnologica que se te permita optimizar tus procesos.
+[imagen 2]
+
+Esta propuesta puede incluir un roadmap a futuro en el que se aprovechen los datos almacenados de tu opración para proponer nuevas
+funcionalidades impulsadas con inteligencia artificial. Esto hará crecer tu negocio, aumentar su alcance y volverlo más competitivo.
+[imagen roadmap-datos]
+
+La solución creada será completamente tuya, es decir, tendrás posesión del código fuente para que lo sigas desarrollando a tu gusto,
+y nosotros te podremos brindar soporte y capacitación si así lo requieres.
+[imagen soporte]
+
+
+acerca de nosotros
+
+Somos un equipo de (personas | profesionistas | desarrolladores) que cree que con el uso adecuado y ético de tecnologías innovadoras
+(se pueden solucionar muchos problemas | se puede aportar al progreso de la humanidad)
+
+* Somos un equipo de desarrolladores que impulsan el uso de tecnologías innovadoras [en el país] y que promueven el desarrollo de personal para 
+el uso adecuado de estas tecnologías para poder realizar cambios significativos (en la manera en la que se vive el día a día). 
+
+Queremos inspirar a los demás para que sean parte de este crecimiento tecnológico y hacer uso de la ciencia (de datos | y tecnología) en diferentes sectores (social, ambiental, financiero, etc.).
+
+BitQuant tiene la visió de dar la oportunidad de formar gente con potencial, sin importar de los recursos con los que cuenten, en el área de ciencia y tecnología
+con el fin de dar una oportunidad de empleo a (mucha gente?) apoyando así a reducir el índice de (pobreza | desempleo | margen de riqueza?) y hacer de este país una potencia
+en recursos tecnologicos.
